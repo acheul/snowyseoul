@@ -81,9 +81,9 @@ years_of_ganji("신축")
 
 
 ### (NEW) Display Identical Personnels from the data (restricted usage)
-+ 예시  
-![dispidenex](./resources/dispidenex.html)
++ 예시
 ![dispidenex](./resources/dispidenex.png)
+![dispidenex2](./resources/dispidenex2.png)
 
 ## About the name
 * Why snowyseoul?
